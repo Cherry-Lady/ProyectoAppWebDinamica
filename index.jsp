@@ -12,7 +12,7 @@
 	<ul class= "lista_inicio">
 		<li><a href="sconsultasaldo">Consultar saldo</a></li>
 		<li><a href="sgestioncdt">Gestionar CDT</a></li>
-		<li><a href="singresoretiro">Ingresar / Retirar</a></li>
+		<li><a href="singresoretiro">Ingresar/Retirar</a></li>
 		<li><a href="ssimulacion">Simulacion</a></li>
 	</ul>
 </div>
